@@ -1,6 +1,6 @@
 # Ex.No: 2  Implementation of Depth First Search
-### NAME : JANARTHANAN S                                                                     
-### REGISTER NUMBER : 212222040058
+### NAME : YUVARAJ B                                                                     
+### REGISTER NUMBER : 212222040186
 ### AIM: 
 To write a python program to implement Depth first Search. 
 ### Algorithm:
